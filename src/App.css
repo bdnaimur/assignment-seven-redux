@@ -1,0 +1,31 @@
+/* pagination style */
+
+.ulStyle {
+    list-style: none;
+    display: flex;
+    justify-content: center
+  }
+  
+  .listStyle {
+    margin: 0px 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: goldenRod;
+    color: #fff
+  }
+  
+  .activeListCssStyle {
+    margin: 0px 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #af320b;
+    color: #fff
+  }
+  
+  .prevNextBtn {
+    margin: 0px 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: gray;
+    color: #fff
+  }

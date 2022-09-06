@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "name": "Pendrive Updated",
+      "amount": "1500",
+      "type": "expense",
+      "id": 3
+    },
+    {
+      "name": "SSD",
+      "amount": "20200",
+      "type": "income",
+      "id": 4
+    },
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 2000000,
+      "id": 5
+    },
+    {
+      "name": "Fish Purchase",
+      "amount": 3000,
+      "type": "expense",
+      "id": 7
+    },
+    {
+      "name": "fish Fry",
+      "type": "expense",
+      "amount": 200,
+      "id": 8
+    },
+    {
+      "name": "Fish Sell from Jatrabari",
+      "amount": 200000,
+      "type": "income",
+      "id": 9
+    }
+  ]
+}
